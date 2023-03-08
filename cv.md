@@ -4,11 +4,13 @@
 
 ## Contacts
 
-email: gurov_roman@internet.ru
+[email](gurov_roman@internet.ru)
 
-Telegram, Viber: +79832807658 
+[Telegram, Viber](+79832807658)
 
 ## About
+
+
 
 Hello, my name is Roman, I am self-studying web programming.
 
