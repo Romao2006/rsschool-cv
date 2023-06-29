@@ -11,7 +11,6 @@ Telegram, Viber: +7 967 611 1118
 Hello, my name is Roman, I am self-studying web programming.
 
 
-
 ## Skills
 
 - HTML5
