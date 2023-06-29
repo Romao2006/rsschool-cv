@@ -23,18 +23,18 @@ Hello, my name is Roman, I am self-studying web programming.
 
 ## Scourses
 
-RS School
+- RS School
 
-Яндекс Практикум
+- Яндекс Практикум
 
 ## Plans
 
- PHP
+- PHP
 
- React
+- React
 
- Vue.js
+- Vue.js
 
- 1C-Битрикс
+- 1C-Битрикс
 
- SQL
+- SQL
